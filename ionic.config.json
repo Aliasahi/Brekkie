@@ -1,0 +1,7 @@
+{
+  "name": "Brekkie",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
